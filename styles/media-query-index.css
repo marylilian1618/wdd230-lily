@@ -1,0 +1,12 @@
+@media screen and (min-width: 500px) {
+    header {
+        background-color: rgb(255, 0, 85);
+        color: aliceblue;
+    }
+
+    .grid02 {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 30px;
+    }
+}
